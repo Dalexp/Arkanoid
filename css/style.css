@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+body{
+    background-image: url(../images/back.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.box-image{
+    background-image: url(../images/back.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.link-image {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+}
