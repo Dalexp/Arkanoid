@@ -1,2 +1,2 @@
-# Arcanoid
-Game Arcanoid WEB
+# Arkanoid
+Game Arkanoid WEB
