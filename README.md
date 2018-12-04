@@ -1,2 +1,2 @@
-# Snake
-Game Snake WEB
+# Arkanoid
+Game Arkanoid WEB
